@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/10/2016 8:22:16 PM -->
+<GameData>
+	<!-- <Language_en_US> -->
+	<Language_zh_CN>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_TITLE">
+			<Text>一级五行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_DESC">
+			<Text>五行是中国自古以来道学的一种系统观，广泛地用于中医学、堪舆、命理、相术和占卜等方面。五行的意义包涵借着阴阳演变过程的五种基本动态：水（代表润下）、火（代表炎上）、金（代表收敛）、木（代表伸展）、土（代表中和）。中国古代哲学家用五行理论来说明世界万物的形成及其相互关系。它强调整体概念，旨在描述事物的运动形式以及转化关系。阴阳是古代的对立统一学说，五行是原始的普通系统论。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_HELP">
+			<Text>允许研究五种基础元素：金木水火土。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_QUOTE">
+			<Text>[TAB][TAB]"五行：一曰水，二曰火，三曰木，四曰金，五曰土。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_WOOD_1_TITLE">
+			<Text>一级木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_1_DESC">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_1_HELP">
+			<Text>能够增加城市的边界夸张速度</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_1_QUOTE">
+			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_WATER_1_TITLE">
+			<Text>一级木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_1_DESC">
+			<Text>水曰润下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_1_HELP">
+			<Text>能够为你的首都增加[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_1_QUOTE">
+			<Text>[TAB][TAB]"水曰润下。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_EARTH_1_TITLE">
+			<Text>一级土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_1_DESC">
+			<Text>土曰稼穑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_1_HELP">
+			<Text>能够增加城市的[ICON_STRENGTH]防御</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_1_QUOTE">
+			<Text>[TAB][TAB]"土曰稼穑。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_METAL_1_TITLE">
+			<Text>一级金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_1_DESC">
+			<Text>金曰从革。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_1_HELP">
+			<Text>能够为你的首都增加[ICON_RESEARCH]科研</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_1_QUOTE">
+			<Text>[TAB][TAB]"金曰从革。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_FIRE_1_TITLE">
+			<Text>一级火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_1_DESC">
+			<Text>火曰炎上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_1_HELP">
+			<Text>能够为你的首都增加[ICON_PRODUCTION]产能</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_1_QUOTE">
+			<Text>[TAB][TAB]"火曰炎上。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+	</Language_zh_CN>
+</GameData>

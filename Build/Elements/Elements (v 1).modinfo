@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="86abb095-852f-4fcc-bad5-299ce5e8cb50" version="1">
+  <Properties>
+    <Name>Elements</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Elements</Teaser>
+    <Description>Elements</Description>
+    <Authors>shuitian</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2B9DDC0685ED4184B96827AA86F1EEF1" import="1">SQL/Deletor.sql</File>
+    <File md5="B6E4AF09F9E1F202BF664FEE9C980536" import="0">XML/Civilizations/StartFreeTechs.xml</File>
+    <File md5="B75CB4E84EBB02E9E96A08F93D629D22" import="0">XML/Technologies/Technologies.xml</File>
+    <File md5="4EF0247129F08E2C38BB0C6117E894FC" import="0">XML/Technologies/TechPreq.xml</File>
+    <File md5="81B302A7199C9A615709DF8564E51CD7" import="0">XML/Technologies/TechTexts.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Deletor.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/Technologies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/TechPreq.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Technologies/TechTexts.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
