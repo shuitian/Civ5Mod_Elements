@@ -4,16 +4,16 @@
 	<!-- <Language_en_US> -->
 	<Language_zh_CN>
 		<!-- Row 0 -->
-		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_TITLE">
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_1_TITLE">
 			<Text>一级五行</Text>
 		</Row>
-		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_DESC">
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_1_DESC">
 			<Text>五行是中国自古以来道学的一种系统观，广泛地用于中医学、堪舆、命理、相术和占卜等方面。五行的意义包涵借着阴阳演变过程的五种基本动态：水（代表润下）、火（代表炎上）、金（代表收敛）、木（代表伸展）、土（代表中和）。中国古代哲学家用五行理论来说明世界万物的形成及其相互关系。它强调整体概念，旨在描述事物的运动形式以及转化关系。阴阳是古代的对立统一学说，五行是原始的普通系统论。</Text>
 		</Row>
-		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_HELP">
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_1_HELP">
 			<Text>允许研究五种基础元素：金木水火土。</Text>
 		</Row>
-		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_QUOTE">
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_1_QUOTE">
 			<Text>[TAB][TAB]"五行：一曰水，二曰火，三曰木，四曰金，五曰土。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
 		</Row>
 		
@@ -137,6 +137,111 @@
 		<Row Tag="TXT_KEY_TECH_COMPOSITE_BOWMAN_QUOTE">
 			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
 		</Row>
+
+		<!-- Row 4 -->
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_2_TITLE">
+			<Text>二级五行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_2_DESC">
+			<Text>金生水，水生木，木生火，火生土，土生金。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_2_HELP">
+			<Text>二级五行</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_2_QUOTE">
+			<Text>金生水，水生木，木生火，火生土，土生金。</Text>
+		</Row>
 		
+		<Row Tag="TXT_KEY_TECH_TOTEMISM_TITLE">
+			<Text>图腾崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TOTEMISM_DESC">
+			<Text>图腾崇拜</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TOTEMISM_HELP">
+			<Text>允许你建造神祠，这是游戏中第一种提供[ICON_PEACE]信仰的建筑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_TOTEMISM_QUOTE">
+			<Text>图腾崇拜</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_ZHOULI_TITLE">
+			<Text>周礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZHOULI_DESC">
+			<Text>周礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZHOULI_HELP">
+			<Text>周礼</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ZHOULI_QUOTE">
+			<Text>周礼</Text>
+		</Row>
+
+		<!-- Row 5 -->
+		<Row Tag="TXT_KEY_TECH_METAL_2_TITLE">
+			<Text>二级金</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_2_DESC">
+			<Text>金曰从革。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_2_HELP">
+			<Text>金曰从革。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_METAL_2_QUOTE">
+			<Text>[TAB][TAB]"金曰从革。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_WATER_2_TITLE">
+			<Text>二级水</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_2_DESC">
+			<Text>水曰润下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_2_HELP">
+			<Text>曰润下。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WATER_2_QUOTE">
+			<Text>[TAB][TAB]"水曰润下。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_FIRE_2_TITLE">
+			<Text>二级火</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_2_DESC">
+			<Text>火曰炎上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_2_HELP">
+			<Text>火曰炎上。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_FIRE_2_QUOTE">
+			<Text>[TAB][TAB]"火曰炎上。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_WOOD_2_TITLE">
+			<Text>二级木</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_2_DESC">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_2_HELP">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_2_QUOTE">
+			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TECH_EARTH_2_TITLE">
+			<Text>二级土</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_2_DESC">
+			<Text>土曰稼穑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_2_HELP">
+			<Text>土曰稼穑。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_EARTH_2_QUOTE">
+			<Text>[TAB][TAB]"土曰稼穑。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
 	</Language_zh_CN>
 </GameData>

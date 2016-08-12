@@ -8,21 +8,21 @@
 		<!-- Row 0 -->
 		<Row>
 			<ID>0</ID>
-			<Type>TECH_THE_FIVE_ELEMENT</Type>
+			<Type>TECH_THE_FIVE_ELEMENT_1</Type>
 			<Cost>12</Cost>
-			<Description>TXT_KEY_TECH_THE_FIVE_ELEMENT_TITLE</Description>
-			<Civilopedia>TXT_KEY_TECH_THE_FIVE_ELEMENT_DESC</Civilopedia>
-			<Help>TXT_KEY_TECH_THE_FIVE_ELEMENT_HELP</Help>
+			<Description>TXT_KEY_TECH_THE_FIVE_ELEMENT_1_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_THE_FIVE_ELEMENT_1_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_THE_FIVE_ELEMENT_1_HELP</Help>
 			<Era>ERA_ANCIENT</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>0</GridX>
 			<GridY>5</GridY>
-			<Quote>TXT_KEY_TECH_THE_FIVE_ELEMENT_QUOTE</Quote>
+			<Quote>TXT_KEY_TECH_THE_FIVE_ELEMENT_1_QUOTE</Quote>
 			<PortraitIndex>0</PortraitIndex>
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
-			<AudioIntro>AS2D_TECH_THE_FIVE_ELEMENT</AudioIntro>
-			<AudioIntroHeader>AS2D_HEADING_TECH_THE_FIVE_ELEMENT</AudioIntroHeader>
+			<AudioIntro>AS2D_TECH_THE_FIVE_ELEMENT_1</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_THE_FIVE_ELEMENT_1</AudioIntroHeader>
 		</Row>
 
 		<!-- Row 1 -->
@@ -322,6 +322,162 @@
 			<AudioIntroHeader>AS2D_HEADING_TECH_BRONZE_WORKING</AudioIntroHeader>
 		</Row>
 
+		<!-- Row 4 -->
+		<Row>
+			<Type>TECH_THE_FIVE_ELEMENT_2</Type>
+			<Cost>85</Cost>
+			<Description>TXT_KEY_TECH_THE_FIVE_ELEMENT_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_THE_FIVE_ELEMENT_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_THE_FIVE_ELEMENT_2_HELP</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>4</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_THE_FIVE_ELEMENT_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_THE_FIVE_ELEMENT_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_THE_FIVE_ELEMENT_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_TOTEMISM</Type>
+			<Cost>85</Cost>
+			<Description>TXT_KEY_TECH_TOTEMISM_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_TOTEMISM_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_TOTEMISM_HELP</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>4</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_TOTEMISM_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_TOTEMISM</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_TOTEMISM</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_ZHOULI</Type>
+			<Cost>85</Cost>
+			<Description>TXT_KEY_TECH_ZHOULI_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ZHOULI_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ZHOULI_HELP</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>4</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_ZHOULI_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ZHOULI</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ZHOULI</AudioIntroHeader>
+		</Row>
+
+		<!-- Row 5 -->
+		<Row>
+			<Type>TECH_METAL_2</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_METAL_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_METAL_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_METAL_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>1</GridY>
+			<Quote>TXT_KEY_TECH_METAL_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_METAL_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_METAL_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WATER_2</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_WATER_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WATER_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WATER_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>2</GridY>
+			<Quote>TXT_KEY_TECH_WATER_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_WATER_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_WATER_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_FIRE_2</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_FIRE_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_FIRE_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_FIRE_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>3</GridY>
+			<Quote>TXT_KEY_TECH_FIRE_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_FIRE_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_FIRE_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WOOD_2</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_WOOD_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WOOD_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WOOD_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_WOOD_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_WOOD_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_WOOD_2</AudioIntroHeader>
+		</Row>	
+		<Row>
+			<Type>TECH_EARTH_2</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_EARTH_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_EARTH_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_EARTH_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>7</GridY>
+			<Quote>TXT_KEY_TECH_EARTH_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_EARTH_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_EARTH_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_ZHOUYUE</Type>
+			<Cost>105</Cost>
+			<Description>TXT_KEY_TECH_ZHOUYUE_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ZHOUYUE_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ZHOUYUE_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>5</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_ZHOUYUE_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ZHOUYUE</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ZHOUYUE</AudioIntroHeader>
+		</Row>
 
 		<!-- Update -->
 		<!-- <Row>

@@ -5,23 +5,23 @@
 		<!-- Row 1 -->
 		<Row>
 			<TechType>TECH_WOOD_1</TechType>
-			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_1</PrereqTech>
 		</Row>
 		<Row>
 			<TechType>TECH_WATER_1</TechType>
-			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_1</PrereqTech>
 		</Row>
 		<Row>
 			<TechType>TECH_EARTH_1</TechType>
-			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_1</PrereqTech>
 		</Row>
 		<Row>
 			<TechType>TECH_METAL_1</TechType>
-			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_1</PrereqTech>
 		</Row>
 		<Row>
 			<TechType>TECH_FIRE_1</TechType>
-			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_1</PrereqTech>
 		</Row>
 
 		<!-- Row 2 -->
@@ -34,11 +34,11 @@
 			<PrereqTech>TECH_WOOD_1</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_POTTERY</TechType>
+			<TechType>TECH_SAILING</TechType>
 			<PrereqTech>TECH_WOOD_1</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_POTTERY</TechType>
+			<TechType>TECH_SAILING</TechType>
 			<PrereqTech>TECH_WATER_1</PrereqTech>
 		</Row>
 		<Row>
@@ -72,19 +72,11 @@
 			<PrereqTech>TECH_ARCHERY</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_WOOD_2</TechType>
-			<PrereqTech>TECH_ARCHERY</PrereqTech>
-		</Row>
-		<Row>
-			<TechType>TECH_WOOD_2</TechType>
+			<TechType>TECH_WRITING</TechType>
 			<PrereqTech>TECH_WOOD_SHIELD</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_WATER_2</TechType>
-			<PrereqTech>TECH_WATER_1</PrereqTech>
-		</Row>
-		<Row>
-			<TechType>TECH_WATER_2</TechType>
+			<TechType>TECH_WRITING</TechType>
 			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
 		</Row>
 		<Row>
@@ -102,6 +94,58 @@
 		<Row>
 			<TechType>TECH_BRONZE_WORKING</TechType>
 			<PrereqTech>TECH_FIRE_1</PrereqTech>
+		</Row>
+
+		<!-- Row 4 -->
+		<Row>
+			<TechType>TECH_THE_FIVE_ELEMENT_2</TechType>
+			<PrereqTech>TECH_WRITING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_FIVE_ELEMENT_2</TechType>
+			<PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_FIVE_ELEMENT_2</TechType>
+			<PrereqTech>TECH_TRAPPING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_THE_FIVE_ELEMENT_2</TechType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TOTEMISM</TechType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ZHOULI</TechType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+		</Row>
+
+		<!-- Row 5 -->
+		<Row>
+			<TechType>TECH_METAL_2</TechType>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WATER_2</TechType>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_FIRE_2</TechType>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WOOD_2</TechType>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_EARTH_2</TechType>
+			<PrereqTech>TECH_THE_FIVE_ELEMENT_2</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ZHOUYUE</TechType>
+			<PrereqTech>TECH_ZHOULI</PrereqTech>
 		</Row>
 	</Technology_PrereqTechs>
 
