@@ -36,7 +36,7 @@
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>1</GridX>
-			<GridY>1</GridY>
+			<GridY>2</GridY>
 			<Quote>TXT_KEY_TECH_WOOD_1_QUOTE</Quote>
 			<PortraitIndex>0</PortraitIndex>
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
@@ -53,7 +53,7 @@
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>1</GridX>
-			<GridY>3</GridY>
+			<GridY>4</GridY>
 			<Quote>TXT_KEY_TECH_WATER_1_QUOTE</Quote>
 			<PortraitIndex>0</PortraitIndex>
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
@@ -104,15 +104,243 @@
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>1</GridX>
-			<GridY>9</GridY>
+			<GridY>8</GridY>
 			<Quote>TXT_KEY_TECH_FIRE_1_QUOTE</Quote>
 			<PortraitIndex>0</PortraitIndex>
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_FIRE_1</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_FIRE_1</AudioIntroHeader>
 		</Row>
-		<!-- Update -->
+
+		<!-- Row 2 -->
 		<Row>
+			<Type>TECH_ARCHERY</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_ARCHERY_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ARCHERY_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ARCHERY_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>1</GridY>
+			<Quote>TXT_KEY_TECH_ARCHERY_QUOTE</Quote>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ARCHERY</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ARCHERY</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WOOD_SHIELD</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_WOOD_SHIELD_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WOOD_SHIELD_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WOOD_SHIELD_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>2</GridY>
+			<Quote>TXT_KEY_TECH_WOOD_SHIELD_QUOTE</Quote>
+			<PortraitIndex>7</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_WOOD_SHIELD</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_WOOD_SHIELD</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_POTTERY</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_POTTERY_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_POTTERY_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_POTTERY_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>3</GridY>
+			<Quote>TXT_KEY_TECH_POTTERY_QUOTE</Quote>
+			<PortraitIndex>4</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_POTTERY</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_POTTERY</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_AGRICULTURE</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_AGRICULTURE_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_AGRICULTURE_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_AGRICULTURE_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_AGRICULTURE_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_MINING</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_MINING_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_MINING_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_MINING_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>6</GridY>
+			<Quote>TXT_KEY_TECH_MINING_QUOTE</Quote>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_MINING</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_MINING</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_COOKING</Type>
+			<Cost>35</Cost>
+			<Description>TXT_KEY_TECH_COOKING_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_COOKING_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_COOKING_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>2</GridX>
+			<GridY>9</GridY>
+			<Quote>TXT_KEY_TECH_COOKING_QUOTE</Quote>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_COOKING</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_COOKING</AudioIntroHeader>
+		</Row>
+
+		<!-- Row 3 -->
+		<Row>
+			<Type>TECH_ARROW_SHOOTER</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_ARROW_SHOOTER_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ARROW_SHOOTER_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ARROW_SHOOTER_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>0</GridY>
+			<Quote>TXT_KEY_TECH_ARROW_SHOOTER_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ARROW_SHOOTER</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ARROW_SHOOTER</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_COMPOSITE_BOWMAN</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_COMPOSITE_BOWMAN_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_COMPOSITE_BOWMAN_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_COMPOSITE_BOWMAN_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>1</GridY>
+			<Quote>TXT_KEY_TECH_COMPOSITE_BOWMAN_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_COMPOSITE_BOWMAN</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_COMPOSITE_BOWMAN</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WOOD_2</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_WOOD_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WOOD_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WOOD_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>2</GridY>
+			<Quote>TXT_KEY_TECH_WOOD_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_WOOD_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_WOOD_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_WATER_2</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_WATER_2_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_WATER_2_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_WATER_2_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>3</GridY>
+			<Quote>TXT_KEY_TECH_WATER_2_QUOTE</Quote>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_WATER_2</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_WATER_2</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_ANIMAL_HUSBANDRY</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ANIMAL_HUSBANDRY_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ANIMAL_HUSBANDRY_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<InternationalTradeRoutesChange>1</InternationalTradeRoutesChange>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>4</GridY>
+			<Quote>TXT_KEY_TECH_ANIMAL_HUSBANDRY_QUOTE</Quote>
+			<PortraitIndex>2</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ANIMAL_HUSBANDRY</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ANIMAL_HUSBANDRY</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_TRAPPING</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_TRAPPING_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_TRAPPING_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_TRAPPING_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>5</GridY>
+			<Quote>TXT_KEY_TECH_TRAPPING_QUOTE</Quote>
+			<PortraitIndex>13</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_2</IconAtlas>
+			<AudioIntro>AS2D_TECH_TRAPPING</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_TRAPPING</AudioIntroHeader>
+		</Row>
+		<Row>
+			<Type>TECH_BRONZE_WORKING</Type>
+			<Cost>55</Cost>
+			<Description>TXT_KEY_TECH_BRONZE_WORKING_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_BRONZE_WORKING_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_BRONZE_WORKING_HELP</Help>
+			<Era>ERA_ANCIENT</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>3</GridX>
+			<GridY>8</GridY>
+			<Quote>TXT_KEY_TECH_BRONZE_WORKING_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_BRONZE_WORKING</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_BRONZE_WORKING</AudioIntroHeader>
+		</Row>
+
+
+		<!-- Update -->
+		<!-- <Row>
 			<Type>TECH_AGRICULTURE</Type>
 			<Cost>12</Cost>
 			<Description>TXT_KEY_TECH_AGRICULTURE_TITLE</Description>
@@ -128,8 +356,8 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
-		</Row>
-		<Row>
+		</Row> -->
+		<!-- <Row>
 			<Type>TECH_POTTERY</Type>
 			<Cost>35</Cost>
 			<Description>TXT_KEY_TECH_POTTERY_TITLE</Description>
@@ -145,8 +373,8 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_POTTERY</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_POTTERY</AudioIntroHeader>
-		</Row>
-		<Row>
+		</Row> -->
+		<!-- <Row>
 			<Type>TECH_ANIMAL_HUSBANDRY</Type>
 			<Cost>35</Cost>
 			<Description>TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE</Description>
@@ -163,8 +391,8 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_ANIMAL_HUSBANDRY</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_ANIMAL_HUSBANDRY</AudioIntroHeader>
-		</Row>
-		<Row>
+		</Row> -->
+		<!-- <Row>
 			<Type>TECH_ARCHERY</Type>
 			<Cost>35</Cost>
 			<Description>TXT_KEY_TECH_ARCHERY_TITLE</Description>
@@ -180,8 +408,8 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_ARCHERY</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_ARCHERY</AudioIntroHeader>
-		</Row>
-		<Row>
+		</Row> -->
+		<!-- <Row>
 			<Type>TECH_MINING</Type>
 			<Cost>35</Cost>
 			<Description>TXT_KEY_TECH_MINING_TITLE</Description>
@@ -197,7 +425,7 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_MINING</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_MINING</AudioIntroHeader>
-		</Row>
+		</Row> -->
 		<Row>
 			<Type>TECH_SAILING</Type>
 			<Cost>55</Cost>
@@ -251,7 +479,7 @@
 			<AudioIntro>AS2D_TECH_WRITING</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_WRITING</AudioIntroHeader>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<Type>TECH_TRAPPING</Type>
 			<Cost>55</Cost>
 			<Description>TXT_KEY_TECH_TRAPPING_TITLE</Description>
@@ -267,7 +495,7 @@
 			<IconAtlas>TECH_ATLAS_2</IconAtlas>
 			<AudioIntro>AS2D_TECH_TRAPPING</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_TRAPPING</AudioIntroHeader>
-		</Row>
+		</Row> -->
 		<Row>
 			<Type>TECH_THE_WHEEL</Type>
 			<Cost>55</Cost>
@@ -302,7 +530,7 @@
 			<AudioIntro>AS2D_TECH_MASONRY</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_MASONRY</AudioIntroHeader>
 		</Row>
-		<Row>
+		<!-- <Row>
 			<Type>TECH_BRONZE_WORKING</Type>
 			<Cost>55</Cost>
 			<Description>TXT_KEY_TECH_BRONZE_WORKING_TITLE</Description>
@@ -318,7 +546,7 @@
 			<IconAtlas>TECH_ATLAS_1</IconAtlas>
 			<AudioIntro>AS2D_TECH_BRONZE_WORKING</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_BRONZE_WORKING</AudioIntroHeader>
-		</Row>
+		</Row> -->
 		<!-- COLUMN 3 -->
 		<Row>
 			<Type>TECH_OPTICS</Type>

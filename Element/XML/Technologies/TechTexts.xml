@@ -3,6 +3,7 @@
 <GameData>
 	<!-- <Language_en_US> -->
 	<Language_zh_CN>
+		<!-- Row 0 -->
 		<Row Tag="TXT_KEY_TECH_THE_FIVE_ELEMENT_TITLE">
 			<Text>一级五行</Text>
 		</Row>
@@ -16,6 +17,8 @@
 			<Text>[TAB][TAB]"五行：一曰水，二曰火，三曰木，四曰金，五曰土。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
 		</Row>
 		
+
+		<!-- Row 1 -->
 		<Row Tag="TXT_KEY_TECH_WOOD_1_TITLE">
 			<Text>一级木</Text>
 		</Row>
@@ -30,7 +33,7 @@
 		</Row>
 		
 		<Row Tag="TXT_KEY_TECH_WATER_1_TITLE">
-			<Text>一级木</Text>
+			<Text>一级水</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TECH_WATER_1_DESC">
 			<Text>水曰润下。</Text>
@@ -80,5 +83,60 @@
 		<Row Tag="TXT_KEY_TECH_FIRE_1_QUOTE">
 			<Text>[TAB][TAB]"火曰炎上。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
 		</Row>
+
+		<!-- Row 2 -->
+		<Row Tag="TXT_KEY_TECH_WOOD_SHIELD_TITLE">
+			<Text>木盾</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_SHIELD_DESC">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_SHIELD_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]木盾兵[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_WOOD_SHIELD_QUOTE">
+			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_COOKING_TITLE">
+			<Text>烹饪</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COOKING_DESC">
+			<Text>烹饪。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COOKING_HELP">
+			<Text>允许你建造火灶，增加城市的[ICON_FOOD]食物</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COOKING_QUOTE">
+			<Text>[TAB][TAB]"火曰炎上。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+
+		<!-- Row 3 -->
+		<Row Tag="TXT_KEY_TECH_ARROW_SHOOTER_TITLE">
+			<Text>利箭射手</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARROW_SHOOTER_DESC">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARROW_SHOOTER_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]利剑射手[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_ARROW_SHOOTER_QUOTE">
+			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_TECH_COMPOSITE_BOWMAN_TITLE">
+			<Text>复合弓</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMPOSITE_BOWMAN_DESC">
+			<Text>木曰曲直。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMPOSITE_BOWMAN_HELP">
+			<Text>允许你建造[COLOR_POSITIVE_TEXT]复合弓[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_COMPOSITE_BOWMAN_QUOTE">
+			<Text>[TAB][TAB]"木曰曲直。"[NEWLINE][TAB][TAB]　　　　——《尚书》[NEWLINE][TAB]</Text>
+		</Row>
+		
 	</Language_zh_CN>
 </GameData>

@@ -2,7 +2,7 @@
 <!-- Created by ModBuddy on 8/10/2016 8:22:07 PM -->
 <GameData>
 	<Technology_PrereqTechs>
-		<!-- New -->
+		<!-- Row 1 -->
 		<Row>
 			<TechType>TECH_WOOD_1</TechType>
 			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
@@ -23,7 +23,90 @@
 			<TechType>TECH_FIRE_1</TechType>
 			<PrereqTech>TECH_THE_FIVE_ELEMENT</PrereqTech>
 		</Row>
-		<!-- Update -->
+
+		<!-- Row 2 -->
+		<Row>
+			<TechType>TECH_ARCHERY</TechType>
+			<PrereqTech>TECH_WOOD_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WOOD_SHIELD</TechType>
+			<PrereqTech>TECH_WOOD_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_POTTERY</TechType>
+			<PrereqTech>TECH_WOOD_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_POTTERY</TechType>
+			<PrereqTech>TECH_WATER_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_AGRICULTURE</TechType>
+			<PrereqTech>TECH_WATER_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_AGRICULTURE</TechType>
+			<PrereqTech>TECH_EARTH_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MINING</TechType>
+			<PrereqTech>TECH_EARTH_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_MINING</TechType>
+			<PrereqTech>TECH_METAL_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COOKING</TechType>
+			<PrereqTech>TECH_FIRE_1</PrereqTech>
+		</Row>
+
+		<!-- Row 3 -->
+		<Row>
+			<TechType>TECH_ARROW_SHOOTER</TechType>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_COMPOSITE_BOWMAN</TechType>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WOOD_2</TechType>
+			<PrereqTech>TECH_ARCHERY</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WOOD_2</TechType>
+			<PrereqTech>TECH_WOOD_SHIELD</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WATER_2</TechType>
+			<PrereqTech>TECH_WATER_1</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_WATER_2</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_TRAPPING</TechType>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_BRONZE_WORKING</TechType>
+			<PrereqTech>TECH_FIRE_1</PrereqTech>
+		</Row>
+	</Technology_PrereqTechs>
+
+	<!-- Update -->
+	<!-- <Technology_PrereqTechs>	
 		<Row>
 			<TechType>TECH_POTTERY</TechType>
 			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
@@ -188,10 +271,6 @@
 			<TechType>TECH_MACHINERY</TechType>
 			<PrereqTech>TECH_GUILDS</PrereqTech>
 		</Row>
-		<!--<Row>
-			<TechType>TECH_PHYSICS</TechType>
-			<PrereqTech>TECH_ENGINEERING</PrereqTech>
-		</Row>-->
 		<Row>
 			<TechType>TECH_PHYSICS</TechType>
 			<PrereqTech>TECH_METAL_CASTING</PrereqTech>
@@ -568,5 +647,5 @@
 			<TechType>TECH_FUTURE_TECH</TechType>
 			<PrereqTech>TECH_STEALTH</PrereqTech>
 		</Row>
-	</Technology_PrereqTechs>
+	</Technology_PrereqTechs> -->
 </GameData>
