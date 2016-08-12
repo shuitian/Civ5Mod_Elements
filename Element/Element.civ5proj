@@ -42,6 +42,11 @@
         <Type>UpdateDatabase</Type>
         <FileName>XML/Technologies/TechTexts.xml</FileName>
       </Action>
+      <Action>
+        <Set>OnModActivated</Set>
+        <Type>UpdateDatabase</Type>
+        <FileName>XML/Terrain/Builds.xml</FileName>
+      </Action>
     </ModActions>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
@@ -59,6 +64,7 @@
     <Folder Include="SQL" />
     <Folder Include="XML" />
     <Folder Include="XML\Civilizations" />
+    <Folder Include="XML\Terrain" />
     <Folder Include="XML\Technologies" />
   </ItemGroup>
   <ItemGroup>
@@ -79,6 +85,10 @@
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>
     <Content Include="XML\Technologies\TechTexts.xml">
+      <SubType>Lua</SubType>
+      <ImportIntoVFS>False</ImportIntoVFS>
+    </Content>
+    <Content Include="XML\Terrain\Builds.xml">
       <SubType>Lua</SubType>
       <ImportIntoVFS>False</ImportIntoVFS>
     </Content>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/12/2016 11:22:23 PM -->
+<GameData>
+	<Builds>
+		<Update>
+			<Set PrereqTech="TECH_THE_FIVE_ELEMENT_2"/>
+			<Where Type="BUILD_ROAD" />
+		</Update>
+	</Builds>
+</GameData>

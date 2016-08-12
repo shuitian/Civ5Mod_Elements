@@ -24,9 +24,10 @@
   <Files>
     <File md5="B94F1FCCAC38D0494F740450B1C5FFBA" import="1">SQL/Deletor.sql</File>
     <File md5="1298E4AB3D5A58EDB9CCE024427FBA99" import="0">XML/Civilizations/StartFreeTechs.xml</File>
-    <File md5="E41A63A2B9BAED61F811156B5E1B6FC8" import="0">XML/Technologies/Technologies.xml</File>
+    <File md5="13C85F57440867A12D4AF6888D4C1C03" import="0">XML/Technologies/Technologies.xml</File>
     <File md5="3D69D77FD4B3DD1AB5EE3EC64514F976" import="0">XML/Technologies/TechPreq.xml</File>
     <File md5="B93419942038101A2FAEF8DD1681E7C6" import="0">XML/Technologies/TechTexts.xml</File>
+    <File md5="1CB2CB10D063339D30E5A2AF312EDE0B" import="0">XML/Terrain/Builds.xml</File>
   </Files>
   <Actions>
     <OnModActivated>
@@ -34,6 +35,7 @@
       <UpdateDatabase>XML/Technologies/Technologies.xml</UpdateDatabase>
       <UpdateDatabase>XML/Technologies/TechPreq.xml</UpdateDatabase>
       <UpdateDatabase>XML/Technologies/TechTexts.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Builds.xml</UpdateDatabase>
     </OnModActivated>
   </Actions>
 </Mod>
