@@ -24,9 +24,9 @@
   <Files>
     <File md5="B94F1FCCAC38D0494F740450B1C5FFBA" import="1">SQL/Deletor.sql</File>
     <File md5="1298E4AB3D5A58EDB9CCE024427FBA99" import="0">XML/Civilizations/StartFreeTechs.xml</File>
-    <File md5="5F39D2DABADA547D53E3923863873DBE" import="0">XML/Technologies/Technologies.xml</File>
-    <File md5="FA67517AE8534FEAD8BDF9B32DF4C229" import="0">XML/Technologies/TechPreq.xml</File>
-    <File md5="50C016C290D242104C8BDEB22C11C845" import="0">XML/Technologies/TechTexts.xml</File>
+    <File md5="E41A63A2B9BAED61F811156B5E1B6FC8" import="0">XML/Technologies/Technologies.xml</File>
+    <File md5="3D69D77FD4B3DD1AB5EE3EC64514F976" import="0">XML/Technologies/TechPreq.xml</File>
+    <File md5="B93419942038101A2FAEF8DD1681E7C6" import="0">XML/Technologies/TechTexts.xml</File>
   </Files>
   <Actions>
     <OnModActivated>

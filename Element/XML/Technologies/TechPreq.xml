@@ -114,11 +114,11 @@
 			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_TOTEMISM</TechType>
+			<TechType>TECH_ZHOULI</TechType>
 			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
 		</Row>
 		<Row>
-			<TechType>TECH_ZHOULI</TechType>
+			<TechType>TECH_TOTEMISM</TechType>
 			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
 		</Row>
 
@@ -146,6 +146,10 @@
 		<Row>
 			<TechType>TECH_ZHOUYUE</TechType>
 			<PrereqTech>TECH_ZHOULI</PrereqTech>
+		</Row>
+		<Row>
+			<TechType>TECH_ZHOUYUE</TechType>
+			<PrereqTech>TECH_TOTEMISM</PrereqTech>
 		</Row>
 	</Technology_PrereqTechs>
 

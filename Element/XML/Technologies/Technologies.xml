@@ -341,6 +341,23 @@
 			<AudioIntroHeader>AS2D_HEADING_TECH_THE_FIVE_ELEMENT_2</AudioIntroHeader>
 		</Row>
 		<Row>
+			<Type>TECH_ZHOULI</Type>
+			<Cost>85</Cost>
+			<Description>TXT_KEY_TECH_ZHOULI_TITLE</Description>
+			<Civilopedia>TXT_KEY_TECH_ZHOULI_DESC</Civilopedia>
+			<Help>TXT_KEY_TECH_ZHOULI_HELP</Help>
+			<Era>ERA_CLASSICAL</Era>
+			<Trade>true</Trade>
+			<GoodyTech>true</GoodyTech>
+			<GridX>4</GridX>
+			<GridY>7</GridY>
+			<Quote>TXT_KEY_TECH_ZHOULI_QUOTE</Quote>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>TECH_ATLAS_1</IconAtlas>
+			<AudioIntro>AS2D_TECH_ZHOULI</AudioIntro>
+			<AudioIntroHeader>AS2D_HEADING_TECH_ZHOULI</AudioIntroHeader>
+		</Row>
+		<Row>
 			<Type>TECH_TOTEMISM</Type>
 			<Cost>85</Cost>
 			<Description>TXT_KEY_TECH_TOTEMISM_TITLE</Description>
@@ -357,23 +374,6 @@
 			<AudioIntro>AS2D_TECH_TOTEMISM</AudioIntro>
 			<AudioIntroHeader>AS2D_HEADING_TECH_TOTEMISM</AudioIntroHeader>
 		</Row>
-		<Row>
-			<Type>TECH_ZHOULI</Type>
-			<Cost>85</Cost>
-			<Description>TXT_KEY_TECH_ZHOULI_TITLE</Description>
-			<Civilopedia>TXT_KEY_TECH_ZHOULI_DESC</Civilopedia>
-			<Help>TXT_KEY_TECH_ZHOULI_HELP</Help>
-			<Era>ERA_CLASSICAL</Era>
-			<Trade>true</Trade>
-			<GoodyTech>true</GoodyTech>
-			<GridX>4</GridX>
-			<GridY>8</GridY>
-			<Quote>TXT_KEY_TECH_ZHOULI_QUOTE</Quote>
-			<PortraitIndex>5</PortraitIndex>
-			<IconAtlas>TECH_ATLAS_1</IconAtlas>
-			<AudioIntro>AS2D_TECH_ZHOULI</AudioIntro>
-			<AudioIntroHeader>AS2D_HEADING_TECH_ZHOULI</AudioIntroHeader>
-		</Row>
 
 		<!-- Row 5 -->
 		<Row>
@@ -382,7 +382,7 @@
 			<Description>TXT_KEY_TECH_METAL_2_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_METAL_2_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_METAL_2_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
@@ -399,7 +399,7 @@
 			<Description>TXT_KEY_TECH_WATER_2_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_WATER_2_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_WATER_2_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
@@ -416,7 +416,7 @@
 			<Description>TXT_KEY_TECH_FIRE_2_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_FIRE_2_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_FIRE_2_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
@@ -433,7 +433,7 @@
 			<Description>TXT_KEY_TECH_WOOD_2_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_WOOD_2_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_WOOD_2_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
@@ -450,7 +450,7 @@
 			<Description>TXT_KEY_TECH_EARTH_2_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_EARTH_2_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_EARTH_2_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
@@ -467,7 +467,7 @@
 			<Description>TXT_KEY_TECH_ZHOUYUE_TITLE</Description>
 			<Civilopedia>TXT_KEY_TECH_ZHOUYUE_DESC</Civilopedia>
 			<Help>TXT_KEY_TECH_ZHOUYUE_HELP</Help>
-			<Era>ERA_ANCIENT</Era>
+			<Era>ERA_CLASSICAL</Era>
 			<Trade>true</Trade>
 			<GoodyTech>true</GoodyTech>
 			<GridX>5</GridX>
